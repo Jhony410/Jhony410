@@ -15,7 +15,7 @@ Hi, I'm Jhony Aguilar!
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Jhony;Desarrollador+Junior;Amante+de+la+tecnología+y+de+la+edición+de+videos+y+fotos;Siempre+aprendiendo+cosas+nuevas&center=true&width=600&height=45&color=36bce8&vCenter=true&size=22">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Jhony;Desarrollador+Junior;Amante+de+la+tecnología+y+de+la+edición;Siempre+aprendiendo+cosas+nuevas&center=true&width=600&height=45&color=36bce8&vCenter=true&size=22">
 </p>
 
 ---
