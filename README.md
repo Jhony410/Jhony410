@@ -74,7 +74,7 @@ Hi, I'm Jhony Aguilar!
 
 <br><br>
 
-  <img src="https://github.com/Jhony410/Jhony410/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/Jhony410/Jhony410/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake dark"/>
 
 </div>
 
