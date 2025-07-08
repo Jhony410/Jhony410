@@ -41,8 +41,5 @@ Hi, I'm Jhony Aguilar!
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Jhony410&theme=date_night" alt="GitHub Streak"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhony410&layout=compact&theme=date_night" alt="Top Languages"/>
-    </td>
-  </tr>
 </table>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhony410&layout=compact&theme=date_night)
