@@ -98,12 +98,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="100">
   <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="100">
-  <!-- C -->
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
-  <!-- GO -->
-  <img src="https://media.giphy.com/media/dVuaiKbihwlS8/giphy.gif" width="100">
-  <!-- Docker -->
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
+  <!-- C (respaldo) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100">
+  <!-- GO (respaldo) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="100">
+  <!-- Docker (respaldo) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="100">
   <!-- HTML -->
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
   <!-- CSS -->
