@@ -15,7 +15,7 @@ Hi, I'm Jhony Aguilar!
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Hola,+soy+Jhony;Desarrollador+Junior;Amante+de+la+tecnología+y+de+la+edición;Siempre+aprendiendo+cosas+nuevas&center=true&width=600&height=45&color=36bce8&vCenter=true&size=22">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Jhony;Desarrollador+Junior;Amante+de+la+tecnología+y+de+la+edición+de+videos+y+fotos;Siempre+aprendiendo+cosas+nuevas&center=true&width=600&height=45&color=36bce8&vCenter=true&size=22">
 </p>
 
 ---
@@ -30,15 +30,22 @@ Hi, I'm Jhony Aguilar!
 
 ### 📊 GitHub Stats
 
-<table align="center">
+### 📊 GitHub Stats
+
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Jhony410&theme=date_night&show_icons=true" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Jhony410&theme=date_night" alt="GitHub Streak"/>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Jhony410&theme=date_night" alt="GitHub Streak"/>
+      </a>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhony410&layout=compact&theme=date_night" alt="Top Languages" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhony410&layout=compact&theme=date_night" alt="Top Languages"/>
+
