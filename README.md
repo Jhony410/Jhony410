@@ -47,6 +47,8 @@ Hi, I'm Jhony Aguilar!
 
 <div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhony410&layout=compact&theme=date_night" alt="Top Languages" />
+
   <h3>📬 Contact</h3>
 
   <a href="mailto:jhonykey1415@gmail.com" title="Gmail">
@@ -70,4 +72,5 @@ Hi, I'm Jhony Aguilar!
   </a>
 
 </div>
+
 
