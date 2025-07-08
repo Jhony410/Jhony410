@@ -115,23 +115,23 @@
 <h3 align="center">🎨 Creative Tools</h3>
 <p align="center">
   <!-- Photoshop -->
-  <img src="images/photoshop.svg" width="100">
+  <img src="images/photoshop.svg" width="75">
   <!-- Illustrator -->
-  <img src="images/illustrator.svg" width="100">
+  <img src="images/ilustrator.svg" width="75">
   <!-- Premiere Pro -->
-  <img src="images/premiere.svg" width="100">
+  <img src="images/premiere.svg" width="75">
   <!-- After Effects -->
-  <img src="images/after-effects.svg" width="100">
+  <img src="images/after-effects.svg" width="75">
   <!-- Lightroom -->
-  <img src="images/lightroom.svg" width="100">
+  <img src="images/lightroom.svg" width="75">
   <!-- CapCut -->
-  <img src="images/capcut.svg" width="100">
+  <img src="images/capcut.svg" width="75">
   <!-- DaVinci Resolve -->
-  <img src="images/davinci.svg" width="100">
+  <img src="images/davinci.svg" width="75">
   <!-- Camera RAW -->
-  <img src="images/camera-raw.svg" width="100">
+  <img src="images/camera-raw.svg" width="75">
   <!-- Canva -->
-  <img src="images/canva.svg" width="100">
+  <img src="images/canva.svg" width="75">
 </p>
 
 ---
