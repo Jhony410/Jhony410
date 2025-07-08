@@ -47,38 +47,28 @@ Hi, I'm Jhony Aguilar!
 <br/>
 
 
-
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhony410&layout=compact&theme=date_night" alt="Top Languages"/>
     </td>
-    <td align="center" style="vertical-align: middle;">
+    <td align="center">
       <h3>📬 Contact</h3>
-
       <a href="mailto:jhonykey1415@gmail.com" title="Gmail">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="40"/>
       </a>
-      &nbsp;&nbsp;
       <a href="https://discord.com/users/889653772870107146" title="Discord: Jhon key#3596">
-        <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
+        <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" height="40"/>
       </a>
-      &nbsp;&nbsp;
       <a href="https://www.instagram.com/jhonykey1415" title="Instagram">
-        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40"/>
       </a>
-      &nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/jhon-aguilar-2388bb373" title="LinkedIn">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40"/>
       </a>
-      &nbsp;&nbsp;
       <a href="https://www.facebook.com/jhon.aguilar.7739814" title="Facebook">
-        <img src="https://skillicons.dev/icons?i=facebook&theme=dark" alt="Facebook" />
+        <img src="https://skillicons.dev/icons?i=facebook&theme=dark" alt="Facebook" height="40"/>
       </a>
     </td>
   </tr>
 </table>
-
-
-
-
