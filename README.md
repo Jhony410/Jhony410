@@ -83,10 +83,10 @@
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100">
 
   <!-- GitHub -->
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 
   <!-- Visual Studio Code -->
-  <img src="https://media.giphy.com/media/SSdXU6X1JYjHjGkU8N/giphy.gif" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
   <!-- MySQL (no oficial animado, alternativa: logo girando) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="100">
@@ -96,12 +96,6 @@
 
   <!-- C++ -->
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="100">
-
-  <!-- PHP -->
-  <img src="https://media.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="100">
-
-  <!-- Kotlin -->
-  <img src="https://media.giphy.com/media/UQrzZl5F2phKwY1GCh/giphy.gif" width="100">
 
   <!-- Visual Studio -->
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100">
