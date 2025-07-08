@@ -47,10 +47,7 @@
 </p>
 
 ---
-
 ### 🤝 Connect with me
-
-<h3 align="center">🤝🏻 Connect with me</h3>
 
 <p align="center">
   <a href="mailto:jhonykey1415@gmail.com">
@@ -70,9 +67,9 @@
   </a>
 </p>
 
+---
+### 🔥 Tech I Love
 
-
-<h3 align="center">🔥 Tech I Love</h3>
 <p align="center">
   <!-- JavaScript -->
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
@@ -109,10 +106,11 @@
   <!-- CSS -->
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
 </p>
+
+
 ---
+### 🎨 Creative Tools
 
-
-<h3 align="center">🎨 Creative Tools</h3>
 <p align="center">
   <!-- Photoshop -->
   <img src="images/photoshop.svg" width="75">
