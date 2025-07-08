@@ -115,23 +115,23 @@
 <h3 align="center">🎨 Creative Tools</h3>
 <p align="center">
   <!-- Photoshop -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="100">
+  <img src="images/photoshop.svg" width="100">
   <!-- Illustrator -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="100">
+  <img src="images/illustrator.svg" width="100">
   <!-- Premiere Pro -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="100">
+  <img src="images/premiere.svg" width="100">
   <!-- After Effects -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" width="100">
+  <img src="images/after-effects.svg" width="100">
   <!-- Lightroom -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_icon.svg" width="100">
+  <img src="images/lightroom.svg" width="100">
   <!-- CapCut -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/CapCut_Logo.svg" width="100">
+  <img src="images/capcut.svg" width="100">
   <!-- DaVinci Resolve -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="100">
+  <img src="images/davinci.svg" width="100">
   <!-- Camera RAW -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Adobe_Camera_Raw_Icon.svg" width="100">
+  <img src="images/camera-raw.svg" width="100">
   <!-- Canva -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="100">
+  <img src="images/canva.svg" width="100">
 </p>
 
 ---
