@@ -65,7 +65,11 @@
   <a href="https://www.facebook.com/jhon.aguilar.7739814">
     <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="https://youtube.com/@jhonyaguilar4714?si=LcGkdFTBRqVLckjm" title="Tu Canal de YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
+
 
 ---
 ### 🔥 Tech I Love
