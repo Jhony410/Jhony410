@@ -71,44 +71,32 @@
 </p>
 
 <h3 align="center">🔥 Tech I Love</h3>
-
 <p align="center">
   <!-- JavaScript -->
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-
   <!-- Python -->
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
-
   <!-- React -->
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100">
-
   <!-- GitHub -->
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-
-  <!-- Visual Studio Code -->
+  <!-- VS Code -->
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-
-  <!-- MySQL (no oficial animado, alternativa: logo girando) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="100">
-
+  <!-- MySQL -->
+  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100">
   <!-- Android Studio -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Icon_2023.svg" width="100">
-
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
   <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="100">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100">
-
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
+  <!-- PHP -->
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
+  <!-- Kotlin -->
+  <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="100">
   <!-- Visual Studio -->
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100">
-
-  <!-- Microsoft -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="100">
-
   <!-- PostgreSQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="100">
+  <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="100">
 </p>
-
 ---
 
 <h2 align="center">
