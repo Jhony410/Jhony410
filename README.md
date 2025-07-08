@@ -22,7 +22,7 @@
 
 - 💻 I’m a passionate developer  
 - 🌐 Visit my [GitHub](https://github.com/Jhony410)  
-- 🛠️ Languages: `.cpp`, `.html`, `.py`  
+- 🛠️ Languages: `.cpp`, `.html`, `.py`, `.c`
 - 🧠 Learning: Docker, TypeScript  
 - 🌟 Open to collaboration and learning  
 
@@ -50,31 +50,25 @@
 
 ### 🤝 Connect with me
 
+<h3 align="center">🤝🏻 Connect with me</h3>
+
 <p align="center">
-
-  <a href="mailto:jhonykey1415@gmail.com" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="40"/>
+  <a href="mailto:jhonykey1415@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
-  <a href="https://discord.com/users/889653772870107146" title="Discord: Jhon key#3596">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" height="40"/>
+  <a href="https://discord.com/users/889653772870107146" title="Jhon key#3596">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-
-  <a href="https://www.instagram.com/jhonykey1415" title="Instagram">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40"/>
+  <a href="https://www.instagram.com/jhonykey1415">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
-  <a href="https://www.linkedin.com/in/jhon-aguilar-2388bb373" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40"/>
+  <a href="https://www.linkedin.com/in/jhon-aguilar-2388bb373">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://www.facebook.com/jhon.aguilar.7739814" title="Facebook">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40"/>
+  <a href="https://www.facebook.com/jhon.aguilar.7739814">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-
 </p>
-
----
 
 ### 🔥 Tech I Love
 
@@ -84,12 +78,6 @@
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Jhony410/Jhony410/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
