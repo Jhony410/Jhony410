@@ -87,7 +87,7 @@
   <!-- Android Studio -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="100">
   <!-- C (respaldo) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100">
+  <img src="https://github.com/Jhony410/Jhony410/blob/main/images/C_Logo.png" width="100">
   <!-- C++ -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100">
   <!-- C# -->
