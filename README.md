@@ -59,11 +59,8 @@
   <a href="https://www.instagram.com/jhonykey1415">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/jhon-aguilar-2388bb373">
+  <a href="https://www.linkedin.com/in/jhony-aguilar-5807b9316">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/jhon.aguilar.7739814">
-    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://youtube.com/@jhonyaguilar4714?si=LcGkdFTBRqVLckjm" title="Tu Canal de YouTube">
     <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -89,8 +86,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="100">
   <!-- Android Studio -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="100">
+  <!-- C (respaldo) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100">
   <!-- C++ -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100">
+  <!-- C# -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="100">
   <!-- PHP -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="100">
   <!-- Kotlin -->
@@ -99,8 +100,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="100">
   <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="100">
-  <!-- C (respaldo) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100">
+  <!-- SQL server -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="100">
   <!-- GO (respaldo) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="100">
   <!-- Docker (respaldo) -->
