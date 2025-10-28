@@ -22,7 +22,7 @@
 
 - 💻 I’m a passionate developer  
 - 🌐 Visit my [GitHub](https://github.com/Jhony410)  
-- 🛠️ Languages: `.cpp`, `.html`, `.py`, `.c`
+- 🛠️ Languages: `.cpp`, `.html`, `.py`, `.sql`, `.c#` 
 - 🧠 Learning: Docker, TypeScript  
 - 🌟 Open to collaboration and learning  
 
