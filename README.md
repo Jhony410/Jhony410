@@ -128,3 +128,19 @@
 <h2 align="center">
    I ❤ Open Source.
 </h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jhony410&style=plastic&color=blueviolet" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhony410&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Jhon Aguilar's GitHub Stats" style="display: inline-block; margin-right: 10px;"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhony410&theme=dark&hide_border=true&locale=en" alt="GitHub Streak" style="display: inline-block;"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jhony410/Jhony410/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
+
+</div>
