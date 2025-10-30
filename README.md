@@ -124,13 +124,14 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jhony410&style=plastic&color=blueviolet" alt="Profile Views"/>
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?Jhony410=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jhony410/Jhony410/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
+<div align="center">
 
 ---
 
