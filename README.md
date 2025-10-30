@@ -6,19 +6,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Jhony410">
-    <img src="https://komarev.com/ghpvc/?username=Jhony410&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Jhony410">
-    <img src="https://img.shields.io/github/followers/Jhony410?label=Followers" alt="Followers" />
-  </a>
-
-  <br/> <img src="https://github-readme-stats.vercel.app/api?username=Jhony410&show_icons=true&locale=en" alt="Jhon Aguilar's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhony410&locale=en" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Jhony;Desarrollador+Junior;Amante+de+la+tecnología+y+de+la+edición;Siempre+aprendiendo+cosas+nuevas&center=true&width=600&height=45&color=36bce8&vCenter=true&size=22">
 </p>
 
@@ -34,16 +21,11 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jhony410&theme=date_night&show_icons=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Jhony410&theme=date_night" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhony410&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Jhon Aguilar's GitHub Stats" style="display: inline-block; margin-right: 10px;"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhony410&theme=dark&hide_border=true&locale=en" alt="GitHub Streak" style="display: inline-block;"/>
+</p>
 
 <h2 align="center">Top Languages 👇</h4>
 <p align="center">
