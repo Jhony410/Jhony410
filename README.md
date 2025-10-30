@@ -12,6 +12,10 @@
   <a href="https://github.com/Jhony410">
     <img src="https://img.shields.io/github/followers/Jhony410?label=Followers" alt="Followers" />
   </a>
+
+  <br/> <img src="https://github-readme-stats.vercel.app/api?username=Jhony410&show_icons=true&locale=en" alt="Jhon Aguilar's GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhony410&locale=en" alt="GitHub Streak" />
 </p>
 
 <p align="center">
