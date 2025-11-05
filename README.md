@@ -52,7 +52,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jhony410&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Jhon Aguilar's GitHub Stats" style="display: inline-block; margin-right: 10px;"/>
-  
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhony410&theme=dark&hide_border=true&locale=en" alt="GitHub Streak" style="display: inline-block;"/>
 </p>
 
